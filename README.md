@@ -34,7 +34,7 @@
 ## 📂 Projects  
 
 <p align="center">
-  <a href="https://github.com/kaustubhpatil028/Project1">
+  <a href="https://github.com/kaustubhpatil028/Video-Fake-Detection">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=kaustubhpatil028&repo=Project1&theme=tokyonight" />
   </a>
   <a href="https://github.com/kaustubhpatil028/Project2">
